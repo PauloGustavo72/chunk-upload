@@ -1,0 +1,12 @@
+version: '3.0'
+
+services:
+  chunk-upload-server:
+    image: masouza/chunk-server
+    ports:
+      - 8080:8080
+
+  chunk-upload-ui:
+    image: masouza/chunk-ui
+    ports:
+      - 3000:3000
