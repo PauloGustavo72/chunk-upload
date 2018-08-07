@@ -1,6 +1,0 @@
-br/com/chunkuploadserver/utils/FileUtilsTest.class
-br/com/chunkuploadserver/upload/service/UploadServiceTest.class
-br/com/chunkuploadserver/user/controller/UserControllerTest.class
-br/com/chunkuploadserver/user/service/UserServiceTest.class
-br/com/chunkuploadserver/upload/controller/UploadControllerTest.class
-br/com/chunkuploadserver/ChunkUploadServerApplicationTests.class
